@@ -93,3 +93,7 @@ The work involved applying mathematical modeling techniques, including graph the
 ## Acknowledgements
 
 This project was completed as a collaborative university computational modeling project. Development and analysis were performed as part of a team effort.
+
+## Notes
+
+This repository contains the core simulation framework and modeling code. Analysis notebooks, generated visualizations, and simulation outputs were created separately during development and are not included in this repository.
