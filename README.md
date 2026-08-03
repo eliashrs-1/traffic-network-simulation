@@ -90,6 +90,12 @@ This project was completed as part of a university computational modeling course
 
 The work involved applying mathematical modeling techniques, including graph theory, queueing theory, stochastic simulation, and differential equations, to study transportation systems.
 
+## Documentation
+
+The full project report with methodology, mathematical modeling details, and visual results is available here:
+
+[Traffic Simulation Report](traffic_simulation_report.pdf)
+
 ## Acknowledgements
 
 This project was completed as a collaborative university computational modeling project. Development and analysis were performed as part of a team effort.
